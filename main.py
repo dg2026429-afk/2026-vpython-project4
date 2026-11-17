@@ -86,7 +86,7 @@ while True :
     if 'd' in k : 
         chiikawa.pos.x = chiikawa.pos.x + 0.1
 
-2026.11.
+2026.11.16
 Web VPython 3.2
 c_head = sphere(color=color.white,radius=1,pos=vec(0,0,0))
 c_ear1 = sphere(color=color.white,radius=0.3,pos=vec(0.8,0.8,0))
