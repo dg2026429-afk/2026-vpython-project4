@@ -1,3 +1,4 @@
+2026.11.02
 Web VPython 3.2
 c_head = sphere(color=color.white,radius=1,pos=vec(0,0,0))
 c_ear = sphere(color=color.white,radius=0.3,pos=vec(0.8,0.8,0))
@@ -8,6 +9,7 @@ c_eye = sphere(color=color.white,radius=0.06,pos=vec(0.32,0.23,0.9))
 c_eye = sphere(color=color.white,radius=0.05,pos=vec(-0.26,0.24,0.93))
 c_blush = sphere(color=vec(1,204/255,229/255),radius=0.3,pos=vec(-0.26,-0.5,0.8))
 
+2026.11.03
 Web VPython 3.2
 c_head = sphere(color=color.white,radius=1,pos=vec(0,0,0))
 c_ear1 = sphere(color=color.white,radius=0.3,pos=vec(0.8,0.8,0))
@@ -28,6 +30,7 @@ c_pencil1 = cone(size=vec(0.4,0.4,0.4),color=color.blue,pos=vec(1.2,-0.5,0.8))
 c_pencil2 = box(color=color.blue,size=vec(0.5,0.33,0.3),pos=vec(0.94,-0.5,0.8))
 chiikawa = compound([c_head,c_ear1,c_ear2,c_eye3,c_eye4,c_eye5,c_eye6,c_blush1,c_blush2,c_mouth,c_eyebrow1,c_eyebrow2,c_eyebrow3,c_eyebrow4,c_hand,c_pencil1,c_pencil2])
 
+2026.11.09
 Web VPython 3.2
 c_head = sphere(color=color.white,radius=1,pos=vec(0,0,0))
 c_ear1 = sphere(color=color.white,radius=0.3,pos=vec(0.8,0.8,0))
@@ -54,6 +57,7 @@ while True :
     if 'd' in k : 
         chiikawa.pos.x = chiikawa.pos.x + 0.1
 
+2026.11.10
 Web VPython 3.2
 c_head = sphere(color=color.white,radius=1,pos=vec(0,0,0))
 c_ear1 = sphere(color=color.white,radius=0.3,pos=vec(0.8,0.8,0))
@@ -82,7 +86,7 @@ while True :
     if 'd' in k : 
         chiikawa.pos.x = chiikawa.pos.x + 0.1
 
-
+2026.11.
 Web VPython 3.2
 c_head = sphere(color=color.white,radius=1,pos=vec(0,0,0))
 c_ear1 = sphere(color=color.white,radius=0.3,pos=vec(0.8,0.8,0))
